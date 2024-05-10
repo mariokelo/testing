@@ -3,11 +3,9 @@ body{
   height: 100%;
   padding: 0;
 }
-body:not(.dark-mode){
+
+section{
   background-image: url('/images/Rounds.png');
-}
-.dark-mode{
-  background: url('images/Screenshot\ \(48\).png');
 }
 
 .main{
